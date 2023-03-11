@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
-title                    : "Your Name / Site Title"
+locale                   : "zh-CN"
+title                    : "郑申奥 / 学术博客"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &hfzx
 facebook:
   username               :
   app_id                 :
